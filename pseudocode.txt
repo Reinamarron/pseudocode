@@ -1,0 +1,26 @@
+Get mail from mailbox
+While pieces of mail are < 8
+Sort mail by last name Leslie, Kelly, Kennedy
+Add mail for Kennedy to green box
+Add mail for Kelly to red box
+Add mail for Leslie to blue box
+
+If there is 5+ pieces in the mailbox, 
+Then stack at the door,
+If there is less than 5 pieces 
+Then do nothing
+
+If junk mail arrives 
+Then move to trash file;
+if it's from a vendor       then move to vendor file
+	else then move it to trash;
+
+for each package;
+	if it's from known sender
+       then move package  to sender mailbox
+	else then move it to trash;
+
+Reflection: biggest takeaway is "we chisel away the imperfections when we review it with our peers. Don't beat yourself up for first drafts that need improvement. Beat up the code instead!”.    How come we didn’t learn this on the front-end???? Geeeeez that would have helped knowing there is light at the end of the tunnel.  At least now I know I’m not alone in the what the what moments the author described. 
+
+3 takeaways : 1.code should be readable and searchable,  2. the code should give understanding why you need to remove dead code and 3. do not over optimize. Just make the code simple and readable.
+                
